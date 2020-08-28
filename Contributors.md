@@ -420,3 +420,8 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer
 - GitHub: [Annysah](https://github.com/Annysah)
+
+#### Name: [Hamsa Harcourt](https://github.com/HarcourtHamsa)
+- Place: Port Harcourt, Nigeria
+- Bio: Fullstack Developer
+- GitHub: [HarcourtHamsa](https://github.com/HarcourtHamsa)
